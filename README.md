@@ -1,6 +1,4 @@
-Hello, World!
-
-=====================
+### Hello, World!
 
 This is my introduction to the world of Github.com.
 My current goals mainly revolve around teaching myself
